@@ -11,6 +11,8 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+[![PDF][linkedin-shield]][linkedin-url]
+
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
@@ -18,3 +20,4 @@
 
 
 [linkedin-shield]: https://fontawesome.com/icons/file-pdf?s=solid&f=classic
+[linkedin-url]: https://linkedin.com/in/othneildrew
