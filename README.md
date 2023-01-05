@@ -19,5 +19,5 @@
 
 
 
-[linkedin-shield]: https://fontawesome.com/icons/file-pdf?s=solid&f=classic
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[pdf-shield]: https://fontawesome.com/icons/file-pdf?s=solid&f=classic
+[pdf-url]: https://linkedin.com/in/othneildrew
