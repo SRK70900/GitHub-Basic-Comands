@@ -26,6 +26,6 @@
 
 
 
-[pdf-shield]: https://github.com/SRK70900/GitHub-Basic-Comands/blob/master/pdf.png
+[pdf-shield]: https://github.com/SRK70900/GitHub-Basic-Comands/blob/master/txt.svg
 
 [pdf-url]: https://linkedin.com/in/othneildrew
