@@ -20,6 +20,6 @@
 
 [![PDF][pdf-shield]][pdf-url]
 
-[pdf-shield]: https://github.com/SRK70900/GitHub-Basic-Comands/blob/master/txt.svg
+[pdf-shield]: https://github.com/SRK70900/GitHub-Basic-Comands/blob/master/txt-dark.svg
 
 [pdf-url]: https://linkedin.com/in/othneildrew
