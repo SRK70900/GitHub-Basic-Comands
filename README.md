@@ -4,40 +4,7 @@
 
 ### GitHub Basic Commands
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![PDF][PDF-shield]][PDF-url]
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-
-
-
-
-</br>
-</br>
-</br>
-</br>
-
-
-[![PDF][pdf-shield]][pdf-url]
-
-[pdf-shield]: https://www.citypng.com/photo/28389/pdf-download-yellow-outline-button-icon-logo-png
-
-[pdf-url]: https://linkedin.com/in/othneildrew
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Adobeiiii](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label=)
-
+[PDF-shield]: https://img.shields.io/badge/-PDF-black.svg?style=for-the-badge&logo=adobe&colorB=555
+[PDF-url]: https://github.com/SRK70900/GitHub-Basic-Comands/blob/master/GitHubBasicCommands.pdf
