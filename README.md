@@ -3,28 +3,22 @@
 
 
 ### GitHub Basic Commands
-</br>
-  <a href="https://github.com/SRK70900/GitHub-Basic-Comands/blob/master/GitHubBasicCommands.pdf">
-    <img src="https://github.com/SRK70900/GitHub-Basic-Comands/blob/master/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-[![PDF][pdf-shield]][pdf-url]
-
-
-
-
-
-
-
-
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 
 
+
+
+</br>
+</br>
+</br>
+</br>
+
+
+[![PDF][pdf-shield]][pdf-url]
 
 [pdf-shield]: https://github.com/SRK70900/GitHub-Basic-Comands/blob/master/txt.svg
 
