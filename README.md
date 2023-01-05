@@ -11,7 +11,14 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![PDF][linkedin-shield]][linkedin-url]
+[![PDF][pdf-shield]][pdf-url]
+
+
+
+
+
+
+
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
