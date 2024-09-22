@@ -1,6 +1,5 @@
 # GitHub Basic Commands
 
-https://www.dropbox.com/request/vGQCSvCjEISVd3HwnreP
 
 ### GitHub Basic Commands
 
